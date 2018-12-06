@@ -9,4 +9,6 @@ https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3
 补充廖老师教程，其中“高阶函数”，“generator”，“promise”，“canvas”，“jquery”，“underscore”，Nodejs章节中的“Web开发”这几个内容不看。其它全都看。
 ## 文字教程（当字典使用）
 http://www.w3school.com.cn/
+## React教程
+https://www.bilibili.com/video/av22082143
 
